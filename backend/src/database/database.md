@@ -1,0 +1,2 @@
+ALTER TABLE orders
+ADD COLUMN payment_type INTEGER DEFAULT 1;
